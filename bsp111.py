@@ -1,2 +1,2 @@
-#111th prb
-print(len(input()))
+#111
+print(len(input("Number")))
